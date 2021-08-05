@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://windows-11-full-version.herokuapp.com/host-https-www.mpnrc.org/post-sitemap.xml
+Sitemap: https://windows-11-full-version.herokuapp.com/sitemap.xml
